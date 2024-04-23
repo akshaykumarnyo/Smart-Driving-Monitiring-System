@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">Data Analytics from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.webp">
+<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHJpdmluZ3xlbnwwfHwwfHx8MA%3D%3D">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykumarnyo&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykumarnyo" /> </p>
 
 - 🔭 I’m currently working on **Smart Driving Monitoring System**
